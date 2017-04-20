@@ -20,4 +20,4 @@ int main()
   delete my_class_ptr;
 
   return 0;
-}
+}hejka raz jeszcze
