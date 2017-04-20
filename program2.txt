@@ -4,7 +4,8 @@ class myClass olxol
 {
 public:
  myClass(int);
-
+#zmiany
+#wszedziezmiany
 private:
  int i;
 };
